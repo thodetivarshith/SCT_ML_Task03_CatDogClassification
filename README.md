@@ -74,4 +74,21 @@ Run all cells.
 Machine Learning Intern — SkillCraft Technology
 
 ---
+
+
+## Results
+
+- Model: Support Vector Machine (Linear Kernel)
+- Image Size: 64 × 64
+- Color Mode: Grayscale
+- Accuracy: 35% (trained on a 100-image sample)
+
+## Future Improvements
+
+- Train on a larger dataset
+- Use color images instead of grayscale
+- Apply feature extraction (e.g., HOG)
+- Compare different SVM kernels
+- Build a CNN for higher accuracy
+- 
 ⭐ If you found this project useful, please give it a star.
