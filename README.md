@@ -90,5 +90,5 @@ Machine Learning Intern — SkillCraft Technology
 - Apply feature extraction (e.g., HOG)
 - Compare different SVM kernels
 - Build a CNN for higher accuracy
-- 
+
 ⭐ If you found this project useful, please give it a star.
