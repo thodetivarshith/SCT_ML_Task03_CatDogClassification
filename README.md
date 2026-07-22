@@ -81,7 +81,7 @@ Machine Learning Intern — SkillCraft Technology
 - Model: Support Vector Machine (Linear Kernel)
 - Image Size: 64 × 64
 - Color Mode: Grayscale
-- Accuracy: 35% (trained on a 100-image sample)
+- Accuracy: 75% (trained on a 25000-image sample)
 
 ## Future Improvements
 
